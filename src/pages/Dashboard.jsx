@@ -1,5 +1,5 @@
 import { useNavigate } from "react-router-dom";
-import { applyTheme } from "../utils/theme";
+import { applyTheme } from "./utils/theme";
 import { useState, useEffect } from "react";
 
 import {

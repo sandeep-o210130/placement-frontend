@@ -8,7 +8,7 @@ import Register from "./pages/Register";
 import Dashboard from "./pages/Dashboard";
 import ProfileForm from "./pages/ProfileForm";
 import ForgotPassword from "./pages/ForgotPassword";
-import VerifyOTP from "./pages/VerifyOtp";
+import VerifyOTP from "./pages/VerifyOTP";
 import Analysis from "./pages/Analysis";
 import History from "./pages/History";
 
