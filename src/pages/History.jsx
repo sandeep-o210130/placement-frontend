@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import API from "./services/app.js";
+import API from "../services/app.js";
 
 import {
   LineChart,

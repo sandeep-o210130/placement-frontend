@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import API from "./services/app.js";
+import API from "../services/app.js";
 import { useNavigate } from "react-router-dom";
 
 function ProfileForm() {
